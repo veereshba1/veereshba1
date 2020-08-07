@@ -1,6 +1,7 @@
 ### Hi there, I'm Veeresh 
 
 ## I'm a Software Engineer by day 👨‍💼 and a gamer by night 🎮 
+-  Proficient with Python, Java and Javascript
 -  I’m currently learning Front End Frameworks 
 -  2020 Goals: Make myself comfortable with Front end 
 -  Fun fact: I love to  🎮 game, 🏊‍♂️ swim and 🎵 listen to music
