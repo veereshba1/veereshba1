@@ -1,6 +1,6 @@
 ### Hi there, I'm Veeresh 
 
-## I'm a Software Engineer by day 👨‍💼 and a gamer by night 🎮 
+## I'm an Engineer by day 👨‍💼 and a gamer by night 🎮 
 -  Proficient with `Python` and `Java`
 -  I’m currently learning Front End Frameworks 
 -  2020 Goals: Make myself comfortable with Front end 
@@ -12,6 +12,7 @@
 
 [<img align="left" alt="Veeresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Veeresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 <br />
 
@@ -37,3 +38,4 @@
 
 [linkedin]: https://www.linkedin.com/in/VeereshBasawaraj
 [twitter]: https://twitter.com/Veeresh_B_
+
