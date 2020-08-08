@@ -12,9 +12,9 @@
 
 [<img align="left" alt="Veeresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Veeresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Veeresh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 
 
-<br />
 
 ### Familiar with:
 
@@ -33,4 +33,5 @@
 
 [linkedin]: https://www.linkedin.com/in/VeereshBasawaraj
 [twitter]: https://twitter.com/Veeresh_B_
+[gmail]: mailto:veeresh.angadimath@gmail.com
 
