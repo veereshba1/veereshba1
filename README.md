@@ -7,14 +7,7 @@
 - Anime freak 
 -  Fun fact: I love to  🎮 game, 🏊‍♂️ swim and 🎵 listen to music
 
-### Connect with me:
 
-
-[<img align="left" alt="Veeresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Veeresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Veeresh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
-
-<br />
 
 ### Familiar with:
 
@@ -25,9 +18,22 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
 
+<br/>
+
+### Currently learning:
+
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/react.svg" />
 
 <br />
 <br />
+
+### Connect with me:
+
+
+[<img align="left" alt="Veeresh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Veeresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Veeresh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
+
 
 ---
 
