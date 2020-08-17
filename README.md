@@ -25,7 +25,6 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/react.svg" />
 
 <br />
-<br />
 
 ### Connect with me:
 
@@ -34,6 +33,7 @@
 [<img align="left" alt="Veeresh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Veeresh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 
+<br />
 
 ---
 
