@@ -1,8 +1,7 @@
 ### Hi there, I'm Veeresh 
 
 ## I'm an Engineer by day 👨‍💼 and a gamer by night 🎮 
--  Proficient with `Python`
--  I’m currently into DevOps 
+-  Proficient with `Python` and currently into `DevOps` 
 -  2020 Goals: Make myself comfortable with DevOps and Front end 
 - Anime freak 
 -  Fun fact: I love to  🎮 game, 🏊‍♂️ swim and 🎵 listen to music
