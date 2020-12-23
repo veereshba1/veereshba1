@@ -1,9 +1,9 @@
 ### Hi there, I'm Veeresh 
 
 ## I'm an Engineer by day 👨‍💼 and a gamer by night 🎮 
--  Proficient with `Python` and `Java`
--  I’m currently learning Front End Frameworks 
--  2020 Goals: Make myself comfortable with Front end 
+-  Proficient with `Python`
+-  I’m currently into DevOps 
+-  2020 Goals: Make myself comfortable with DevOps and Front end 
 - Anime freak 
 -  Fun fact: I love to  🎮 game, 🏊‍♂️ swim and 🎵 listen to music
 
@@ -11,18 +11,21 @@
 
 ### Familiar with:
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jenkins.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kubernetes.svg" />
+<img align="left" alt="Rancher" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rancher.svg" />
+<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/terraform.svg" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
 
 <br/>
 
 ### Currently learning:
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/react.svg" />
+<img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ansible.svg" />
 
 <br />
 
