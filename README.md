@@ -38,7 +38,7 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/VeereshBasawaraj
+[linkedin]: www.linkedin.com/in/veereshba
 [twitter]: https://twitter.com/Veeresh_B_
 [gmail]: mailto:veeresh.angadimath@gmail.com
 
