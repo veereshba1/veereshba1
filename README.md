@@ -10,7 +10,9 @@
 ## My Everyday Work Deals With:
 
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kubernetes.svg" />
+<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/terraform.svg" />
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftazure.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jenkins.svg" />
 <img align="left" alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ansible.svg" />
 <img align="left" alt="Helm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/helm.svg" />
@@ -28,7 +30,9 @@
 
 ##  **My Achievements 🏅**
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/478779bc-2bb6-44bd-82f1-b1840604ce67)
+- [CKS: Certified Kubernetes Security Specialist](https://www.credly.com/earner/earned/badge/0f98c608-846f-4a40-9122-5b6e569cd91c)
 - [LFS169: Introduction to GitOps](https://www.credly.com/badges/c6ae1859-0104-4a38-9382-72ee23d6c64a)
+- [Fundamentals for Istio by Solo.io](https://www.credly.com/earner/earned/badge/8ccdc535-3696-440c-b625-a6b8a2767d7c)
 
 - See all my Achievements here -> [Credly](https://www.credly.com/users/veeresh-angadimath/badges)
 
@@ -52,4 +56,4 @@
 [linkedin]: https://www.linkedin.com/in/veereshba
 [twitter]: https://twitter.com/Veeresh_B_
 [gmail]: mailto:veeresh.angadimath@gmail.com
-[portfolio]: https://veereshba1.github.io/
+[portfolio]: https://veereshangadimath.wixsite.com/myportfolio
